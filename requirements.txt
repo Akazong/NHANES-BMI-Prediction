@@ -1,0 +1,7 @@
+# NHANES BMI Project Dependencies
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter

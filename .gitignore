@@ -1,0 +1,17 @@
+# Raw NHANES data
+data/
+
+# Large/intermediate datasets
+outputs/Final_edited.csv
+outputs/NHANES_Cleaned_Adults.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+archive/
