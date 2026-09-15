@@ -72,3 +72,32 @@ NHANES-BMI-Prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+## Analysis Workflow
+
+1. NHANES data collection and integration across three survey cycles
+2. Data cleaning and preprocessing
+3. Exploratory data analysis
+4. Regression modelling and model comparison
+5. Random Forest feature-importance analysis
+6. Sensitivity analysis with and without waist circumference
+7. Hyperparameter tuning of the no-waist Random Forest model
+
+## Tools and Libraries
+
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+- Jupyter Notebook
+
+## Data Availability
+
+This project uses publicly available data from the U.S. National Health and Nutrition Examination Survey (NHANES). Raw NHANES data files are not stored in this repository. The notebooks document the data integration and processing workflow used to construct the analytical dataset.
+
+## Author
+
+**Etheline W. Akazong**
+
+PhD in Biochemistry | Research Scientist | Data Science & Health Analytics
